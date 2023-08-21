@@ -38,3 +38,13 @@ button
 	background-color:#fff;
 	border:1px solid #097C9B
 }
+#b1
+{
+    box-shadow: 10%;
+    font-size:x-large;
+    color:black;
+    width:300px;
+    display: inline-block;   
+    border-radius: 2%; 
+    border:none;
+}
